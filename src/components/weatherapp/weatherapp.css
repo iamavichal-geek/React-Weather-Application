@@ -1,10 +1,10 @@
 .wap-container{
     height: 95vh;
     width: 95%;
-background: linear-gradient(180deg, rgba(24,30,74,1) 0%, rgba(31,104,138,1) 48%, rgba(44,201,255,1) 100%);
+background: linear-gradient(180deg, rgb(216, 43, 4) 0%, rgb(249, 226, 16) 48%, rgb(255, 129, 10) 100%);
 margin:auto ;
 margin-top: 5%;
-border-radius: 5px;
+border-radius: 50px;
 }
 
 .top-bar{
